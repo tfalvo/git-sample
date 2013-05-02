@@ -7,7 +7,8 @@ public class GitSample {
 	public static void main(String[] args) {
 		
 		// Démarrage
-		System.out.println("Démarrage de l'application.");
+		System.out.println("Démarrage de l'application en cours...");
+		
 
 	}
 
