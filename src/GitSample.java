@@ -9,6 +9,8 @@ public class GitSample {
 		// Démarrage
 		System.out.println("Démarrage de l'application en cours...");
 		
+		// Nouvelle fonction en cours d'expérimentation
+		System.out.println("Fonction #1");
 
 	}
 
