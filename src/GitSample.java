@@ -11,7 +11,7 @@ public class GitSample {
 		System.out.println("Test démarrage...");
 		
 		
-
+		System.out.println("Hotfix...");
 	}
 
 }
